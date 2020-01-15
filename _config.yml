@@ -1,8 +1,8 @@
 # Site settings
 title: Helio Hackweek 2020
 email: TBD@umd.edu
-description: Workshop On ICESat-2 Datasets for cryospheric studies <br>
-             University of Washington <br>
+description: Workshop on Machine Learning in Heliophysics <br>
+             University of Maryland <br>
              June 8-12, 2020 <br>
              Application Deadline April 3, 2020 <br> 
 baseurl: "" # the subpath of your site, e.g. /blog
