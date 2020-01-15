@@ -18,15 +18,15 @@ featured-image-source:
 # Social settings
 500px_url:
 facebook_url:
-github_url: https://github.com/ICESAT-2HackWeek
+github_url: https://github.com/heliohackWeek
 gitlab_url:
 googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: https://ICESat2hackweek.slack.com
+slack_url: https://heliohackweek.slack.com
 twitter_url:
-email_url: icesat@uw.edu
+email_url: TBD@umd.edu
 
 # Build settings
 markdown: kramdown
