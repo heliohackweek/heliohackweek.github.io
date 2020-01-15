@@ -11,21 +11,21 @@ team:
       github_user: 
 
     - name: Barbara Thompson
-      title: Principal Research Scientist
-      affiliate: eScience & APL
-      image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
-      github_user: aaarendt
-
-    - name: Ben Smith
-      title: Principal Physicist
-      affiliate: APL
-      image_url: /assets/images/BenSmith.JPG
+      title: Solar Physicist
+      affiliate: NASA
+      image_url: /assets/images/BThompson.JPG
       github_user: 
 
-  - - name: Ian Joughin
+    - name: Jack Ma
+      title: Principal Physicist
+      affiliate: APL
+      image_url: /assets/images/JMa.JPG
+      github_user: 
+
+  - - name: Christoph Keller
       title: Senior Principal Engineer
       affiliate: APL
-      image_url: /assets/images/IanJoughin.JPG
+      image_url: /assets/images/CKeller.JPG
       github_user: 
 
     - name: Rob Fatland
