@@ -4,13 +4,13 @@ title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
 description: List of contributors to IS2HackWeek
 team:
-  - - name: Axel Schweiger
-      title: Senior Principal Scientist
-      affiliate: APL
-      image_url: /assets/images/AxelSchweiger.JPG
+  - - name: Mark Carroll
+      title: Research Scientist
+      affiliate: NASA
+      image_url: /assets/images/MCarroll.JPG
       github_user: 
 
-    - name: Anthony Arendt
+    - name: Barbara Thompson
       title: Principal Research Scientist
       affiliate: eScience & APL
       image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
