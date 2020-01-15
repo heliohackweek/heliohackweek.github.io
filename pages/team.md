@@ -17,8 +17,8 @@ team:
       github_user: 
 
     - name: Jack Ma
-      title: Principal Physicist
-      affiliate: APL
+      title: MPS Program Director
+      affiliate: University of Maryland
       image_url: /assets/images/JMa.JPG
       github_user: 
 
