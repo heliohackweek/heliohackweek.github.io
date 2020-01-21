@@ -37,7 +37,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>9:15 - 10:45 AM</td>
 <td><a href="https://github.com/ICESAT-2HackWeek/intro_ICESat2">Introduction to Heliophysics HW</a></td>
-<td>Barbara Thompson, Mark Carroll, Micahel Kirk</td>
+<td>Barbara Thompson, Mark Carroll, Michael Kirk</td>
 </tr>
 
 <tr>
@@ -174,7 +174,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr> 
 <td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of ICESat-2 data files</a> - <a href="https://www.youtube.com/watch?v=X4Mks9Wrtd0"> video </a></td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of helio data files</a> - <a href="https://www.youtube.com/watch?v=X4Mks9Wrtd0"> video </a></td>
 <td>Fernando Paolo</td>
 </tr>
 
