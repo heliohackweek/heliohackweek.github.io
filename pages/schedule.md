@@ -49,7 +49,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>11:00 - 12:00 PM </td>
 <td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">IPython and Jupyter</a>  - <a href="https://www.youtube.com/watch?v=xNE3m5JOigc"> video </a></td>
-<td> Fernando Perez </td>
+<td> by Fernando Perez, facilitator: Jules Kouatchou </td>
 </tr>
 
 <tr>
@@ -61,13 +61,13 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td> 1:00 PM - 2:30 PM</td>
 <td><a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Git version control / collaboration on GitHub</a> - <a href="https://www.youtube.com/watch?v=l4rNE2hJGPI"> video </a></td>
-<td>Fernando Perez</td>
+<td>by Fernando Perez, facilitator: Jules Kouatchou</td>
 </tr>
 
 <tr>
 <td>2:30 - 3:00 PM </td>
 <td><a href="https://icesat-2hackweek.github.io/wiki/project_guidelines.html">Project ideas/pitching</a></td>
-<td>Everyone, Anthony lead</td>
+<td>Everyone, Barbara Thompson facilitating</td>
 </tr>
 
 <tr>
@@ -84,7 +84,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>5:00 - 7:00 PM</td>
-<td>Happy Hour Gathering in the Lobby Bar at The Hotel at the University of Maryland</td>
+<td>HW20 Happy Hour Gathering in the Lobby Bar at The Hotel at the University of Maryland</td>
 <td>Everyone</td>
 </tr>
 
@@ -175,7 +175,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr> 
 <td> 10:30 - 11:15 AM </td>
 <td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Reduction of helio data files</a> - <a href="https://www.youtube.com/watch?v=X4Mks9Wrtd0"> video </a></td>
-<td>Fernando Paolo</td>
+<td>by Fernando Perez, facilitator: Jules Kouatchou</td>
 </tr>
 
 <tr>
