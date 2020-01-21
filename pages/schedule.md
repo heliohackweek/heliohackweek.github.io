@@ -36,8 +36,8 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>9:15 - 10:45 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro_ICESat2">Introduction to ICESat-2</a></td>
-<td>Tom Neumann, Ron Kwok, Ben Smith</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro_ICESat2">Introduction to Heliophysics HW</a></td>
+<td>Barbara Thompson, Mark Carroll, Micahel Kirk</td>
 </tr>
 
 <tr>
@@ -84,7 +84,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>5:00 - 7:00 PM</td>
-<td>Happy Hour Gathering in South Campus Center</td>
+<td>Happy Hour Gathering in the Lobby Bar at The Hotel at the University of Maryland</td>
 <td>Everyone</td>
 </tr>
 
@@ -103,8 +103,8 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>8:30 - 10:00 AM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/data-access">ICESat-2 data access</a> - <a href="https://www.youtube.com/watch?v=KFdGBxkne1U"> video </a></td>
-<td>Amy Steiker</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/data-access">Helio data access</a> - <a href="https://www.youtube.com/watch?v=KFdGBxkne1U"> video </a></td>
+<td>Barbara Thompson</td>
 </tr>
 
 <tr>
@@ -115,15 +115,15 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr> 
 <td> 10:30 - 11:15 AM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to HDF5 data model</a> - <a href="https://www.youtube.com/watch?v=bl1Dm6a0-B8"> video </a></td>
-<td>Fernando Paolo</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/intro-hdf5">Introduction to TBD</a> - <a href="https://www.youtube.com/watch?v=bl1Dm6a0-B8"> video </a></td>
+<td>Mark Carroll</td>
 </tr>
 
 
 <tr> 
 <td> 11:15 - 12:00 PM </td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=CngLak9-ULE"> video </a></td>
-<td>Ben Smith</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Data filtering</a> - <a href="https://www.youtube.com/watch?v=CngLak9-ULE"> video </a></td>
+<td>Mark Carroll</td>>
 </tr>
 
 
@@ -135,8 +135,8 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 <tr>
 <td>1:00 - 1:30 PM</td>
-<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Clouds and data filtering</a> - <a href="https://www.youtube.com/watch?v=8uXzHo6Ytok"> video </a></td>
-<td>Ben Smith</td>
+<td><a href="https://github.com/ICESAT-2HackWeek/Clouds_and_data_filtering">Data filtering</a> - <a href="https://www.youtube.com/watch?v=8uXzHo6Ytok"> video </a></td>
+<td>Mark Carroll</td>
 </tr>
 
 
@@ -163,7 +163,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td> 8:30 - 10:00 AM</td>
 <td> <a href="https://github.com/ICESAT-2HackWeek/intro-jupyter-git">Jupyter revisited: collaboration and reproducibility</a> - <a href="https://www.youtube.com/watch?v=puJa6fnjrEo"> video </a></td>
-<td> Fernando Perez</td>
+<td> Jules Kouatchou</td>
 </tr>
 
 <tr>
@@ -235,7 +235,7 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 <tr>
 <td>8:30 - 10:00 AM</td>
 <td><a href="https://github.com/ICESAT-2HackWeek/geospatial-analysis">Geospatial data exploration</a> - <a href="https://www.youtube.com/watch?v=3N7ENfWoiVk"> video </a></td>
-<td>David Shean</td>
+<td>Mark Carroll</td>
 </tr>
 
 <tr>
