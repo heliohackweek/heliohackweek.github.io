@@ -12,6 +12,6 @@ components: tutorials on state-of-the-art methodology, peer-learning, and on-sit
 project work in a collaborative environment. This setup is particularly powerful for
 sciences that require not only domain-specific knowledge, but also effective computational
 workflows to foster rapid exchange of ideas and make discovery, as has been shown by
-the success of the previous [geohackweeks](https://geohackweek.github.io) and the previous [ICESat-2 hackweek](https://icesat-2hackweek.github.io) at the University of Washington. This is an excellent match
+the success of the previous [geohackweeks](https://geohackweek.github.io) and the [ICESat-2 hackweek](https://icesat-2hackweek.github.io) at the University of Washington. This is an excellent match
 with the nature of heliophysics where data are large and complex and the
 community is diverse and collaborative.
