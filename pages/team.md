@@ -43,10 +43,10 @@ team:
     - name: Jules Kouatchou
       title: Computational Scientist
       affiliate: NASA
-      image_url: /assets/images/Jules.png
-      github_user: tbd
+      image_url: /assets/images/Jules.JPG
+      github_user: 
 
-    - name: TBD
+    - name: Jordan 
       title: TBDr
       affiliate: TBD
       image_url: /assets/images/no-Photo-Available.JPG
