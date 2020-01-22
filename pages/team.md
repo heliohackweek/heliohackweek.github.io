@@ -42,7 +42,7 @@ team:
 
     - name: Jules Kouatchou
       title: Computational Scientist
-      affiliate: TBD
+      affiliate: NASA
       image_url: /assets/images/Jules.png
       github_user: tbd
 
