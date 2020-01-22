@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: Schedule
+description: The Schedule for this hackweek is still in process. More updates will be made available on this site as we get closer to the event.<!–– 
 ---
 
 ## Pre-event preparation
@@ -351,5 +351,5 @@ Please work through this <a href ="https://icesat-2hackweek.github.io/preliminar
 
 </tbody>
 </table>
-
+––>
 
