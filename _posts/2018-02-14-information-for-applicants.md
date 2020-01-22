@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Information for Applicants
-description: To best benefit from the program, participants are expected to have some experience with programming and/or with analysis of heliophysics data. Although tutorials will focus on Python, much of the information and concepts extend to other languages (e.g., Matlab, R, IDL, Java), so even with no Python knowledge the tutorials will help educate the attendee in the basics of retrieving and applying heliophysics data. For those who do not know Python or wish to improve their skills, we recommend enrolling in a <a href="https://software-carpentry.org/">Software Carpentry</a> workshop. There are no registration fees for this event, and the hackweek schedule is still in the development phase.
+description: There are no registration fees for this event, and the hackweek schedule is still in the development phase.
+
+<br>To best benefit from the program, participants are expected to have some experience with programming and/or with analysis of heliophysics data. Although tutorials will focus on Python, much of the information and concepts extend to other languages (e.g., Matlab, R, IDL, Java), so even with no Python knowledge the tutorials will help educate the attendee in the basics of retrieving and applying heliophysics data. For those who do not know Python or wish to improve their skills, we recommend enrolling in a <a href="https://software-carpentry.org/">Software Carpentry</a> workshop. 
 image: team_photo.jpg
 ---
 There are no registration fees for this event, and the hackweek schedule is still in the development phase. To best benefit from the program, participants are expected to have some experience with programming and with analysis of heliophysics data. Although tutorials will focus on Python, much of the information and concepts extend to other languages (e.g., Matlab, R, IDL, Java), so even with no Python knowledge the tutorials will help educate the attendee in the basics of retrieving and applying heliophysics data. 
