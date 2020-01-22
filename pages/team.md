@@ -52,17 +52,7 @@ team:
       image_url: /assets/images/no-Photo-Available.JPG
       github_user: 
 
-    - name: TBD
-      title: TBDr
-      affiliate: TBD
-      image_url: /assets/images/no-Photo-Available.JPG
-      github_user: tbd
 
-    - name: TBD
-      title: TBDr
-      affiliate: TBD
-      image_url: /assets/images/no-Photo-Available.JPG
-      github_user: tbd
 
     
 
