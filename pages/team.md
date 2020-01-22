@@ -46,11 +46,11 @@ team:
       image_url: /assets/images/Jules.JPG
       github_user: 
 
-    - name: Jordan 
-      title: TBDr
-      affiliate: TBD
+    - name: Jordan Caraballo-Vega
+      title: 
+      affiliate: NASA
       image_url: /assets/images/no-Photo-Available.JPG
-      github_user: tbd
+      github_user: 
 
     - name: TBD
       title: TBDr
