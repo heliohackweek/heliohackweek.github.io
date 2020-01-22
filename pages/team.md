@@ -40,10 +40,10 @@ team:
       image_url: /assets/images/SKeefe.JPG
       github_user: skeefe
 
-    - name: TBD
-      title: TBDr
+    - name: Jules Kouatchou
+      title: Computational Scientist
       affiliate: TBD
-      image_url: /assets/images/no-Photo-Available.JPG
+      image_url: /assets/images/Jules.png
       github_user: tbd
 
     - name: TBD
