@@ -55,7 +55,7 @@ team:
     - name: Craig Pellisier
       title: Senior Research Scientist
       affiliate: NASA
-      image_url: /assets/images/Craig_P 
+      image_url: /assets/images/CraigP 
       github_user: 
 
   - - name: Jordan Caraballo-Vega
