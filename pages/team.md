@@ -25,7 +25,7 @@ team:
   - - name: Craig Pelissier
       title: Senior Research Scientist
       affiliate: NASA
-      image_url: /assets/images/CraigP.JPG
+      image_url: /assets/images/Craig_P.JPG
       github_user: 
 
     - name: Sean R. Keefe
