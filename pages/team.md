@@ -59,61 +59,61 @@ team:
       github_user: 
 
   - - name: TBD
-      title: 
-      affiliate: 
-      image_url: /assets/images/TBD.JPG
+      title: Research Scientist
+      affiliate: MIT
+      image_url: 
       github_user: 
 
     - name: TBD
       title: Graduate Student 
       affiliate: MIT
-      image_url: /assets/images/TBD.JPG
+      image_url: 
       github_user: 
 
     - name: TBD
       title: Graduate Student 
       affiliate: Virginia Tech
-      image_url: /assets/images/TBD.JPG
+      image_url: 
       github_user: jomey
 
   - - name: TBD
       title: Research Scientist 
       affiliate: UC Berkeley  
-      image_url: /assets/images/TBD.JPG
+      image_url: 
 
     - name: TBD
       title: Graduate Student 
       affiliate: Stanford 
-      image_url: /assets/images/TBD.JPG
+      image_url: 
 
     - name: TBD 
       title: Research Scientist 
       affiliate: University of Maryland 
-      image_url: /assets/images/TBD.JPG
+      image_url: 
       github_user: 
 
   - - name: TBD
       title: Postdoctoral Scholar
       affiliate: Carnegie Mellon
-      image_url: /assets/images/TBD.JPG
+      image_url:
       github_user: 
 
     - name: TBD
       title: Assistant Professor
-      affiliate: •	USRA 
-      image_url: /assets/images/TBD.JPG
+      affiliate: USRA 
+      image_url: 
       github_user:
 
     - name: TBD
-      title: Postdoctoral Scholar
+      title: Graduate Student
       affiliate: Georgia Tech
-      image_url: /assets/images/TBD.JPG
+      image_url: 
       github_user: 
 
   - - name: Maya Becker
       title: Graduate Student
       affiliate: LASP
-      image_url: /assets/images/TBD.JPG
+      image_url: 
       github_user: 
 
 ---
