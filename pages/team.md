@@ -28,17 +28,19 @@ team:
       image_url: /assets/images/CKeller.JPG
       github_user: 
 
-    - name: Michael Kirk
-      title: TBD
-      affiliate: NASA
-      image_url: /assets/images/MKirk.JPG
-      github_user: 
-
     - name: Sean R. Keefe
       title: Hackweek Manager
       affiliate: NASA
       image_url: /assets/images/SKeefe.JPG
       github_user: skeefe
+      
+    - name: Michael Kirk
+      title: TBD
+      affiliate: NASA
+      image_url: /assets/images/M_Kirk.JPG
+      github_user: 
+
+
 
     - name: Jules Kouatchou
       title: Computational Scientist
