@@ -22,16 +22,16 @@ team:
       image_url: /assets/images/JMa.JPG
       github_user: 
 
-  - - name: Christoph Keller
-      title: Senior Principal Engineer
-      affiliate: APL
-      image_url: /assets/images/CKeller.JPG
-      github_user: 
-
+    - name: James Shute
+      title: Principal Application Architect
+      affiliate: NASA
+      image_url: /assets/images/J_Shute.JPG
+      github_user: skeefe
+ 
     - name: Sean R. Keefe
       title: Hackweek Manager
       affiliate: NASA
-      image_url: /assets/images/SKeefe.JPG
+      image_url: /assets/images/S_Keefe.JPG
       github_user: skeefe
       
     - name: Michael Kirk
@@ -40,6 +40,11 @@ team:
       image_url: /assets/images/M_Kirk.JPG
       github_user: 
 
+    - name: Christoph Keller
+      title: Senior Principal Engineer
+      affiliate: APL
+      image_url: /assets/images/CKeller.JPG
+      github_user:
 
 
     - name: Jules Kouatchou
