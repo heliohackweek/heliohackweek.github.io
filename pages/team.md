@@ -34,7 +34,7 @@ team:
       image_url: /assets/images/S_Keefe.JPG
       github_user: seankeefe
 
-    - name: Jules Koutchou
+    - name: Jules Kouatchou
       title: Computational Scientist
       affiliate: NASA
       image_url: /assets/images/Jules.JPG
