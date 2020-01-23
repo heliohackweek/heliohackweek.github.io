@@ -52,10 +52,10 @@ team:
       image_url: /assets/images/M_Kirk.JPG
       github_user: MSKirk
 
-    - name: Craig Pellisier
+    - name: Craig Pelissier
       title: Senior Research Scientist
       affiliate: NASA
-      image_url: /assets/images/CraigP 
+      image_url: /assets/images/Craig_P 
       github_user: 
 
   - - name: Jordan Caraballo-Vega
