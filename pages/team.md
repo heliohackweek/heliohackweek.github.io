@@ -5,21 +5,21 @@ permalink: our-team.html
 description: List of contributors to Heliophyics Hackweek 2020 (HW20)
 team:
   - - name: Mark Carroll
-      title: Senior Principal Scientist
-      affiliate: APL
+      title: Researchl Scientist
+      affiliate: NASA
       image_url: /assets/images/MCarroll.JPG
       github_user: 
 
-    - name: Anthony Arendt
+    - name: Barbara Thompson
       title: Principal Research Scientist
-      affiliate: eScience & APL
-      image_url: https://geohackweek.github.io/ghw2017/images/4993098.jpeg
-      github_user: aaarendt
+      affiliate: NASA
+      image_url: /assets/images/BThompson.JPG
+      github_user: 
 
-    - name: Ben Smith
-      title: Principal Physicist
-      affiliate: APL
-      image_url: /assets/images/BenSmith.JPG
+    - name: Jack Ma
+      title: MPS Program Director
+      affiliate: University of Maryland
+      image_url: /assets/images/JMa.JPG
       github_user: 
 
   - - name: Ian Joughin
