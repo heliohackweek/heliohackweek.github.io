@@ -22,11 +22,11 @@ team:
       image_url: /assets/images/JMa.JPG
       github_user: 
 
-  - - name: Craig Pelissier
-      title: Senior Research Scientist
+  - - name: Michael Kirk
+      title: Research Scientist
       affiliate: NASA
-      image_url: /assets/images/Craig_P.JPG
-      github_user: 
+      image_url: /assets/images/M_Kirk.JPG
+      github_user: MSKirk
 
     - name: Sean R. Keefe
       title: HW20 Project Manager
