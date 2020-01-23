@@ -2,12 +2,12 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description: List of contributors to IS2HackWeek
+description: List of contributors to Heliophyics Hackweek 2020 (HW20)
 team:
-  - - name: Axel Schweiger
+  - - name: Mark Carroll
       title: Senior Principal Scientist
       affiliate: APL
-      image_url: /assets/images/AxelSchweiger.JPG
+      image_url: /assets/images/MCarroll.JPG
       github_user: 
 
     - name: Anthony Arendt
