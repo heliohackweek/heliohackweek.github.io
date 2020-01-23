@@ -40,11 +40,11 @@ team:
       image_url: /assets/images/Jules.JPG
       github_user: 
 
-  - - name: Jordan Caraballo-Vega
-      title: Engineering/Security
+  - - name: Jim Shute 
+      title: NCCS Cloud Computing and Data Services Lead 
       affiliate: NASA
-      image_url: /assets/images/Jordan_C-V.JPG
-      github_user: jordancaraballo
+      image_url: /assets/images/Jim_S.JPG
+      github_user: 
 
     - name: Michael Kirk
       title: Research Scientist
@@ -52,16 +52,16 @@ team:
       image_url: /assets/images/M_Kirk.JPG
       github_user: MSKirk
 
-    - name: Jim Shute
-      title: NCCS Cloud Computing and Data Services Lead
+    - name: Craig Pellisier
+      title: Senior Research Scientist
       affiliate: NASA
-      image_url: /assets/images/Jim_S.JPG
+      image_url: /assets/images/Craig_P 
       github_user: 
 
-  - - name: 
-      title: Research Scientist
-      affiliate: MIT
-      image_url: 
+  - - name: Jordan Caraballo-Vega
+      title: Engineering/Security
+      affiliate: NASA
+      image_url: /assets/images/Jordan_C-V.JPG
       github_user: 
 
     - name: TBD
