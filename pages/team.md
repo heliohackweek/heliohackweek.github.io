@@ -58,7 +58,7 @@ team:
       image_url: /assets/images/Jim_S.JPG
       github_user: 
 
-  - - name: TBD
+  - - name: 
       title: Research Scientist
       affiliate: MIT
       image_url: 
