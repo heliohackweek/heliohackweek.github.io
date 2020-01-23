@@ -22,10 +22,10 @@ team:
       image_url: /assets/images/JMa.JPG
       github_user: 
 
-  - - name: Jim Shute
-      title: 
+  - - name: Craig Pelissier
+      title: Senior Research Scientist
       affiliate: NASA
-      image_url: /assets/images/J_Shute.JPG
+      image_url: /assets/images/Craig_P.JPG
       github_user: 
 
     - name: Sean R. Keefe
@@ -50,27 +50,27 @@ team:
       title: Research Scientist
       affiliate: NASA
       image_url: /assets/images/M_Kirk.JPG
+      github_user: MSKirk
+
+    - name: Jim Shute
+      title: Program Manager
+      affiliate: NASA
+      image_url: /assets/images/J_Shute.JPG
       github_user: 
 
-    - name: Fernando Perez
-      title: Assistant Professor/Faculty Scientist
-      affiliate: <a href="https://bids.berkeley.edu/people/fernando-perez">Department of Statistics, UC Berkeley</a>
-      image_url: https://avatars1.githubusercontent.com/u/57394?s=400&v=4
-      github_user: fperez
+  - - name: TBD
+      title: 
+      affiliate: 
+      image_url: /assets/images/TBD.JPG
+      github_user: 
 
-  - - name: Johan Nilsson
-      title: Scientist
-      affiliate: <a href="https://science.jpl.nasa.gov/people/Nilsson/">Jet Propulsion Laboratory, NASA</a>
-      image_url: /assets/images/JohanNilsson.jpg
-      github_user: nilssonj
-
-    - name: Fernando Paolo
-      title: Postdoctoral Scholar 
+    - name: TBD
+      title: 
       affiliate: NASA Jet Propulsion Laboratory 
-      image_url: https://avatars0.githubusercontent.com/u/539688?s=460&v=4
-      github_user: fspaolo
+      image_url: /assets/images/TBD.jpg
+      github_user: 
 
-    - name: Joachim Meyer
+    - name: TBD
       title: Graduate Student 
       affiliate: University of Utah 
       image_url: https://avatars2.githubusercontent.com/u/178649?s=400&v=4
