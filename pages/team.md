@@ -58,10 +58,10 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-  - - name: Jordan Caraballo-Vega
-      title: Engineering/Security
-      affiliate: NASA
-      image_url: /assets/images/Jordan_C-V.JPG
+  - - name: Early-career professional
+      title: 
+      affiliate: LARC
+      image_url: 
       github_user: 
 
     - name: 
@@ -74,7 +74,7 @@ team:
       title: Graduate Student 
       affiliate: Virginia Tech
       image_url: 
-      github_user: jomey
+      github_user: 
 
   - - name: 
       title: Research Scientist 
