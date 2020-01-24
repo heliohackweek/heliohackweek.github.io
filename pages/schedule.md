@@ -7,7 +7,7 @@ description: The Schedule for this hackweek is still in process. <br>More update
 
 ## Pre-event preparation
 
-Please work through this <a href ="https://icesat-2hackweek.github.io/preliminary/">Preliminary tutorial</a> in advance of the hackweek!
+Pre-event material and announcements regarding the pre-hackweek Python training will be announced here in the coming months. 
 
 
 
