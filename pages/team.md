@@ -64,53 +64,53 @@ team:
       image_url: /assets/images/Jordan_C-V.JPG
       github_user: 
 
-    - name: TBD
+    - name: 
       title: Graduate Student 
       affiliate: MIT
       image_url: 
       github_user: 
 
-    - name: TBD
+    - name: 
       title: Graduate Student 
       affiliate: Virginia Tech
       image_url: 
       github_user: jomey
 
-  - - name: TBD
+  - - name: 
       title: Research Scientist 
       affiliate: UC Berkeley  
       image_url: 
 
-    - name: TBD
+    - name: 
       title: Graduate Student 
       affiliate: Stanford 
       image_url: 
 
-    - name: TBD 
+    - name:  
       title: Research Scientist 
       affiliate: University of Maryland 
       image_url: 
       github_user: 
 
-  - - name: TBD
+  - - name: 
       title: Postdoctoral Scholar
       affiliate: Carnegie Mellon
       image_url:
       github_user: 
 
-    - name: TBD
+    - name: 
       title: Assistant Professor
       affiliate: USRA 
       image_url: 
       github_user:
 
-    - name: TBD
+    - name: 
       title: Graduate Student
       affiliate: Georgia Tech
       image_url: 
       github_user: 
 
-  - - name: Maya Becker
+  - - name: 
       title: Graduate Student
       affiliate: LASP
       image_url: 
