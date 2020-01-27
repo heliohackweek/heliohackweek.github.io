@@ -48,7 +48,7 @@ team:
 
     - name: TBD
       title: Early-career professional
-      affiliate: NASA
+      affiliate: UMD
       image_url: 
       github_user: 
 
