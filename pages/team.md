@@ -43,7 +43,7 @@ team:
   - - name: Jim Shute 
       title: NCCS Cloud Computing and Data Services Lead 
       affiliate: NASA
-      image_url: /assets/images/Jim_Shute.jpg
+      image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
     - name: 
