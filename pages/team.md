@@ -7,7 +7,7 @@ team:
   - - name: Mark Carroll
       title: Researchl Scientist
       affiliate: NASA
-      image_url: /assets/images/MCarroll.JPG
+      image_url: /assets/images/M_Carroll.JPG
       github_user: 
 
     - name: Barbara Thompson
@@ -31,7 +31,7 @@ team:
     - name: Sean R. Keefe
       title: HW20 Project Manager
       affiliate: NASA
-      image_url: /assets/images/S_Keefe.JPG
+      image_url: /assets/images/Sean_K.JPG
       github_user: seankeefe
 
     - name: Jules Kouatchou
@@ -43,14 +43,14 @@ team:
   - - name: Jim Shute 
       title: NCCS Cloud Computing and Data Services Lead 
       affiliate: NASA
-      image_url: /assets/images/Jim_S.JPG
+      image_url: /assets/images/Jim_Shute.jpg
       github_user: 
 
-    - name: Michael Kirk
-      title: Research Scientist
+    - name: 
+      title: Early-career professional
       affiliate: NASA
-      image_url: /assets/images/M_Kirk.JPG
-      github_user: MSKirk
+      image_url: 
+      github_user: 
 
     - name: Craig Pelissier
       title: Senior Research Scientist
