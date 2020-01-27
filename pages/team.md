@@ -46,7 +46,7 @@ team:
       image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
-    - name: 
+    - name: TBD
       title: Early-career professional
       affiliate: NASA
       image_url: 
@@ -58,59 +58,59 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-  - - name: Early-career professional
-      title: 
+  - - name: TBD
+      title: Early-career professional
       affiliate: LARC
       image_url: 
       github_user: 
 
-    - name: 
+    - name: TBD
       title: Graduate Student 
       affiliate: MIT
       image_url: 
       github_user: 
 
-    - name: 
+    - name: TBD
       title: Graduate Student 
       affiliate: Virginia Tech
       image_url: 
       github_user: 
 
-  - - name: 
+  - - name: TBD
       title: Research Scientist 
       affiliate: UC Berkeley  
       image_url: 
 
-    - name: 
+    - name: TBD
       title: Graduate Student 
       affiliate: Stanford 
       image_url: 
 
-    - name:  
+    - name: TBD
       title: Research Scientist 
       affiliate: University of Maryland 
       image_url: 
       github_user: 
 
-  - - name: 
+  - - name: TBD
       title: Postdoctoral Scholar
       affiliate: Carnegie Mellon
       image_url:
       github_user: 
 
-    - name: 
+    - name: TBD
       title: Assistant Professor
       affiliate: USRA 
       image_url: 
       github_user:
 
-    - name: 
+    - name: TBD
       title: Graduate Student
       affiliate: Georgia Tech
       image_url: 
       github_user: 
 
-  - - name: 
+  - - name: TBD
       title: Graduate Student
       affiliate: LASP
       image_url: 
