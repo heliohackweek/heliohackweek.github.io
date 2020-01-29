@@ -58,9 +58,9 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-  - - name: TBD
-      title: Early-career professional
-      affiliate: LARC
+  - - name: Brian Powell
+      title: Data Scientist
+      affiliate: NASA
       image_url: 
       github_user: 
 
