@@ -46,8 +46,8 @@ team:
       image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
-    - name: TBD
-      title: Early-career professional
+    - name: Brian Powell
+      title: Data Scientist
       affiliate: UMD
       image_url: 
       github_user: 
@@ -58,8 +58,8 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-  - - name: Brian Powell
-      title: Data Scientist
+  - - name: TBD
+      title: Early-career professional
       affiliate: NASA
       image_url: 
       github_user: 
