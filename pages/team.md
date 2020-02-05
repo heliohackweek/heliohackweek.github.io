@@ -5,7 +5,7 @@ permalink: our-team.html
 description: List of contributors to Heliophyics Hackweek 2020 (HW20)
 team:
   - - name: Mark Carroll
-      title: Researchl Scientist
+      title: Research Scientist
       affiliate: NASA
       image_url: /assets/images/M_Carroll.JPG
       github_user: 
