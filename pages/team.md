@@ -52,16 +52,16 @@ team:
       image_url: /assets/images/Burcu.jpg
       github_user: 
 
-    - name: Craig Pelissier
+    - name: Chris Bard
+      title: Associate Scientist
+      affiliate: NASA
+      image_url:  
+      github_user: 
+
+  - - name: Craig Pelissier
       title: Senior Research Scientist
       affiliate: NASA
       image_url: /assets/images/Craig_P.JPG 
-      github_user: 
-
-  - - name: TBD
-      title: Early-career professional
-      affiliate: NASA
-      image_url: 
       github_user: 
 
     - name: TBD
