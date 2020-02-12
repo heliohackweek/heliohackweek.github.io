@@ -2,7 +2,7 @@
 layout: page
 title: INSTRUCTORS and EVENT COORDINATORS
 permalink: our-team.html
-description: List of contributors to Heliophyics Hackweek 2020 (HW20)
+description: List of contributors to Heliophysics Hackweek 2020 (HW20)
 team:
   - - name: Mark Carroll
       title: Research Scientist
