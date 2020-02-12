@@ -49,7 +49,7 @@ team:
     - name: Burcu Kosar
       title: Associate Scientist
       affiliate: NASA
-      image_url: Burcu.jpg
+      image_url: /assets/images/Burcu.jpg
       github_user: 
 
     - name: Craig Pelissier
