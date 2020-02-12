@@ -11,7 +11,7 @@ team:
       github_user: 
 
     - name: Barbara Thompson
-      title: Principal Research Scientist
+      title: Research Scientist
       affiliate: NASA
       image_url: /assets/images/BThompson.JPG
       github_user: 
@@ -46,10 +46,10 @@ team:
       image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
-    - name: Brian Powell
-      title: Data Scientist
-      affiliate: UMD
-      image_url: 
+    - name: Burcu Kosar
+      title: Associate Scientist
+      affiliate: NASA
+      image_url: Burcu.jpg
       github_user: 
 
     - name: Craig Pelissier
