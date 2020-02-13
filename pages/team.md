@@ -13,7 +13,7 @@ team:
     - name: Barbara Thompson
       title: Research Scientist
       affiliate: NASA
-      image_url: /assets/images/BThompson.JPG
+      image_url: /assets/images/B_Thompson.png
       github_user: 
 
     - name: Jack Ma
