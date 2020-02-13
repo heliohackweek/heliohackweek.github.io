@@ -55,7 +55,7 @@ team:
     - name: Chris Bard
       title: Associate Scientist
       affiliate: NASA
-      image_url:  
+      image_url: /assets/images/Chris_Bard.jpg
       github_user: 
 
   - - name: Craig Pelissier
