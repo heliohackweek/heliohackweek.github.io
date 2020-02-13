@@ -49,7 +49,7 @@ team:
     - name: Burcu Kosar
       title: Associate Scientist
       affiliate: NASA
-      image_url: /assets/images/Burcu.jpg
+      image_url: /assets/images/Burcu.png
       github_user: 
 
     - name: Chris Bard
