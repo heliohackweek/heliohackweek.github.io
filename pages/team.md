@@ -37,7 +37,7 @@ team:
     - name: Jules Kouatchou
       title: Computational Scientist
       affiliate: NASA
-      image_url: /assets/images/Jules.JPG
+      image_url: /assets/images/Jules_2.JPG
       github_user: 
 
   - - name: Jim Shute 
