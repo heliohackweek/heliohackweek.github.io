@@ -64,9 +64,9 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-    - name: TBD
-      title: Graduate Student 
-      affiliate: MIT
+    - name: Brent Smith
+      title: Senior Scientific Analyst
+      affiliate: JHU Applied Physics Laboratory
       image_url: 
       github_user: 
 
@@ -81,39 +81,6 @@ team:
       affiliate: UC Berkeley  
       image_url: 
 
-    - name: TBD
-      title: Graduate Student 
-      affiliate: Stanford 
-      image_url: 
-
-    - name: TBD
-      title: Research Scientist 
-      affiliate: University of Maryland 
-      image_url: 
-      github_user: 
-
-  - - name: TBD
-      title: Postdoctoral Scholar
-      affiliate: Carnegie Mellon
-      image_url:
-      github_user: 
-
-    - name: TBD
-      title: Assistant Professor
-      affiliate: USRA 
-      image_url: 
-      github_user:
-
-    - name: TBD
-      title: Graduate Student
-      affiliate: Georgia Tech
-      image_url: 
-      github_user: 
-
-  - - name: TBD
-      title: Graduate Student
-      affiliate: LASP
-      image_url: 
-      github_user: 
+    
 
 ---
