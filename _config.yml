@@ -1,13 +1,15 @@
 # Site settings
 title: Helio Hackweek 2020
 email: TBD@umd.edu
-description: Workshop on Machine Learning in Heliophysics <br>
+description: Virtual Workshop on Machine Learning in Heliophysics <br>
              University of Maryland <br>
-             *NEW DATE* August 3-7, 2020 (Postponed from June)<br>
-             *The application period is now closed. <br>
-             We will provide information soon regarding acceptance to the program. <br>
-             We will also post details in the coming weeks about the schedule and content.<br>
-             (*See update below related to Covid-19)<br> 
+             *NEW DATES* 
+             *July 20, 2020.......Pre-Hackweek Project Pitchfest <br>
+             *August 20-21........HW20 Opening, Training Sessions<br>
+             • August 25, 26, 27..Hackweek Collaboration and Support Sessions<br><br>
+ 
+             We will provide further details to all accepted applicants in the coming days.<br>
+    
             
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
