@@ -40,10 +40,10 @@ team:
       image_url: /assets/images/Jules_2.JPG
       github_user: 
 
-  - - name: Jim Shute 
-      title: NCCS Cloud Computing and Data Services Lead 
-      affiliate: NASA
-      image_url: /assets/images/Jim_Shute.JPG
+  - - name: Brent Smith
+      title: Senior Scientific Analyst 
+      affiliate: JHU APL
+      image_url: 
       github_user: 
 
     - name: Burcu Kosar
@@ -64,10 +64,10 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
-    - name: Brent Smith
-      title: Senior Scientific Analyst
-      affiliate: JHU Applied Physics Laboratory
-      image_url: 
+    - name: Jim Shute 
+      title: NCCS Cloud Computing and Data Services Lead 
+      affiliate: NASA
+      image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
   - - name: TBD
