@@ -70,12 +70,6 @@ team:
       image_url: 
       github_user: 
 
-    - name: TBD
-      title: Graduate Student 
-      affiliate: Virginia Tech
-      image_url: 
-      github_user: 
-
   - - name: TBD
       title: Research Scientist 
       affiliate: UC Berkeley  
