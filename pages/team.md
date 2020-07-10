@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HW20 EVENT COORDINATORS, INSTRUCTORS and Mentors
+title: HW20 planners and mentors
 permalink: our-team.html
 description: 
 team:
