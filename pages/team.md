@@ -64,16 +64,18 @@ team:
       image_url: /assets/images/Craig_P.JPG 
       github_user: 
 
+    - name: Benoit Tremblay
+      title: Postdoctoral Research Fellow
+      affiliate: LASP
+      image_url: /assets/images/Benoit.jfif
+      
     - name: Jim Shute 
       title: NCCS Cloud Computing and Data Services Lead 
       affiliate: NASA
       image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
-    - name: Benoit Tremblay
-      title: Postdoctoral Research Fellow
-      affiliate: LASP
-      image_url: /assets/images/Benoit.jfif
+
 
     
 
