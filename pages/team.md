@@ -41,9 +41,9 @@ team:
       github_user: 
 
   - - name: Brent Smith
-      title: Senior Scientific Analyst 
+      title: Senior Scientific Developer 
       affiliate: JHU APL
-      image_url: 
+      image_url: /assets/images/Brent.jpeg
       github_user: 
 
     - name: Burcu Kosar
