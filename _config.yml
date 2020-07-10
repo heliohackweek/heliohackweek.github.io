@@ -30,9 +30,9 @@ googleplus_url:
 instagram_url:
 linkedin_url:
 pinterest_url:
-slack_url: TBD
+slack_url: 
 twitter_url:
-email_url: TBD@umd.edu
+email_url: 
 
 # Build settings
 markdown: kramdown
