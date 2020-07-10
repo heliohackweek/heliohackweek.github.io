@@ -70,10 +70,10 @@ team:
       image_url: /assets/images/Jim_Shute.JPG
       github_user: 
 
-  - - name: TBD
-      title: Research Scientist 
-      affiliate: UC Berkeley  
-      image_url: 
+    - name: Benoit Tremblay
+      title: Postdoctoral Research Fellow
+      affiliate: LASP
+      image_url: /assets/images/Benoit.jfif
 
     
 
