@@ -41,7 +41,7 @@ team:
       github_user: 
 
   - - name: Brent Smith
-      title: Senior Scientific Developer 
+      title: Senior Scientific Developer/Hackweek Project Mentor  
       affiliate: JHU APL
       image_url: /assets/images/Brent.jpeg
       github_user: 
@@ -53,7 +53,7 @@ team:
       github_user: 
 
     - name: Chris Bard
-      title: Associate Scientist
+      title: Associate Scientist/Hackweek Project Mentor 
       affiliate: NASA
       image_url: /assets/images/Chris_Bard.jpg
       github_user: 
@@ -65,14 +65,14 @@ team:
       github_user: 
 
     - name: Benoit Tremblay
-      title: Postdoctoral Research Fellow
+      title: Postdoctoral Research Fellow/Hackweek Project Mentor
       affiliate: LASP
       image_url: /assets/images/Benoit.jfif
       
-    - name: Jim Shute 
-      title: NCCS Cloud Computing and Data Services Lead 
-      affiliate: NASA
-      image_url: /assets/images/Jim_Shute.JPG
+    - name: Sapna Shekhar
+      title: Postdoctoral Researcher/Hackweek Project Mentor 
+      affiliate: Auburn University
+      image_url: /assets/images/TBD
       github_user: 
 
 
