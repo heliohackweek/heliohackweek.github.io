@@ -70,7 +70,7 @@ team:
       image_url: /assets/images/Benoit.jfif
       
     - name: Sapna Shekhar
-      title: Postdoctoral Researcher/Hackweek Project Mentor 
+      title: Postdoctoral Research Fellow/Hackweek Project Mentor 
       affiliate: Auburn University
       image_url: /assets/images/TBD
       github_user: 
