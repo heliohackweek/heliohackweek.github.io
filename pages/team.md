@@ -58,20 +58,20 @@ team:
       image_url: /assets/images/Chris_Bard.jpg
       github_user: 
 
-  - - name: Craig Pelissier
-      title: Senior Research Scientist
-      affiliate: NASA
-      image_url: /assets/images/Craig_P.JPG 
+  - - name: Benoit Tremblay
+      title: Postdoctoral Research Fellow/Hackweek Project Mento
+      affiliate: LASP
+      image_url: /assets/images/Benoit.jfif 
       github_user: 
 
-    - name: Benoit Tremblay
-      title: Postdoctoral Research Fellow/Hackweek Project Mentor
-      affiliate: LASP
-      image_url: /assets/images/Benoit.jfif
-      
     - name: Sapna Shekhar
-      title: Postdoctoral Research Fellow/Hackweek Project Mentor 
+      title: Postdoctoral Research Fellow/Hackweek Project Mento
       affiliate: Auburn University
+      image_url: /assets/images/TBD
+      
+    - name: Liang Wang
+      title: Research Scientist/Hackweek Project Mentor 
+      affiliate: Princeton University
       image_url: /assets/images/TBD
       github_user: 
 
