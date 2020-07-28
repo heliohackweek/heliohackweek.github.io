@@ -28,7 +28,7 @@ team:
       image_url: /assets/images/M_Kirk.JPG
       github_user: MSKirk
 
-    - name: Sean R. Keefe
+    - name: Sean Keefe
       title: HW20 Project Manager
       affiliate: NASA
       image_url: /assets/images/Sean_K.JPG
