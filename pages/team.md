@@ -41,7 +41,7 @@ team:
       github_user: 
 
   - - name: Brent Smith
-      title: Senior Scientific Developer/HW Project Mentor  
+      title: Senior Scientific Developer  
       affiliate: JHU APL
       image_url: /assets/images/Brent.jpeg
       github_user: 
@@ -53,24 +53,24 @@ team:
       github_user: 
 
     - name: Chris Bard
-      title: Associate Scientist/HW Project Mentor 
+      title: Associate Scientist
       affiliate: NASA
       image_url: /assets/images/Chris_Bard.jpg
       github_user: 
 
   - - name: Benoit Tremblay
-      title: Postdoctoral Research Fellow/HW Project Mentor
+      title: Postdoctoral Research Fellow
       affiliate: LASP
       image_url: /assets/images/Benoit.jfif 
       github_user: 
 
     - name: Sapna Shekhar
-      title: Postdoctoral Research Fellow/HW Project Mentor
+      title: Postdoctoral Research Fellow
       affiliate: Auburn University
       image_url: /assets/images/TBD
       
     - name: Liang Wang
-      title: Research Scientist/HW Project Mentor 
+      title: Research Scientist
       affiliate: Princeton University
       image_url: /assets/images/TBD
       github_user: 
