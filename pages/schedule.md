@@ -2,8 +2,8 @@
 layout: page
 title: Schedule
 permalink: schedule.html
-description: The Schedule for this hackweek is 
-
+description: Schedule
+---
 <br>More updates will be made available on this site as we get closer to the event. 
 
 
