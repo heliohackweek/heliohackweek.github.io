@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Weekly Schedules 
+title: Hackweek Schedules 
 permalink: schedule.html
-description:  <a href="https://drive.google.com/file/d/1VOCWWQ9XJ4i-Asm6Y7n2o4VXCEX9t84d/view">Week One ScheduleC</a>
+description: Week One <a href="https://drive.google.com/file/d/1VOCWWQ9XJ4i-Asm6Y7n2o4VXCEX9t84d/view">Schedule</a>
 
 ---
 ## Pre-event preparation
