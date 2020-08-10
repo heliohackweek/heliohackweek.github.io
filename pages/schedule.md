@@ -3,10 +3,10 @@ layout: page
 title: Week One Schedule 
 permalink: schedule.html
 description: Schedule Beta
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScO2sT65wPvh8A7OarCF-04RkgJ-9ZOAw6pJ77VUtu2ab079g/viewform?usp=sf_link" class="button special">Schedule C</a>
 ---
-<br>More updates will be made available on this site as we get closer to the event. 
+<br>More updates will be made available on this site as we get closer to the event.
+
+<a href="https://drive.google.com/file/d/1VOCWWQ9XJ4i-Asm6Y7n2o4VXCEX9t84d/view">Schedule C</a>
 
 
 ---
