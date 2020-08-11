@@ -5,11 +5,11 @@ permalink: schedule.html
 description: AA
 ---
 
-<a href="https://heliohackweek.github.io/assets/images/Schedule.png">Schedule</a> (August 20-21, 2020)
+<a href="https://drive.google.com/file/d/1miFDBOYcd1PvMmUYHbFt8XhSh-EjXeU4/view?usp=sharing">Schedule</a> (August 20-27, 2020)
 
 ## Pre-event preparation
 
-Pre-event material and training links are available from the Wiki button on the homepage. 
+Click the Wiki button on the homepage to se pre-event material and training links. 
 
 
 
