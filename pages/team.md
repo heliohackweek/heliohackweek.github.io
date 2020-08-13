@@ -67,7 +67,7 @@ team:
     - name: Sapna Shekhar
       title: Postdoctoral Research Fellow
       affiliate: Auburn University
-      image_url: /assets/images/TBD
+      image_url: /assets/images/Sapna_Shekhar.jpg
       
     - name: Liang Wang
       title: Associate Research Scholar
