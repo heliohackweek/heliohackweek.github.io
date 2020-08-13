@@ -70,9 +70,9 @@ team:
       image_url: /assets/images/TBD
       
     - name: Liang Wang
-      title: Research Scientist
+      title: Associate Research Scholar
       affiliate: Princeton University
-      image_url: /assets/images/TBD
+      image_url: /assets/images/Liang.png
       github_user: 
 
 
