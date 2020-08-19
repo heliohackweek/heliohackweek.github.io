@@ -16,10 +16,10 @@ team:
       image_url: /assets/images/B_Thompson.png
       github_user: 
 
-    - name: Jack Ma
-      title: MPS Program Director
-      affiliate: University of Maryland
-      image_url: /assets/images/JMa.JPG
+    - name: Anthony Arendt
+      title: HW Mentor
+      affiliate: University of Washington
+      image_url: /assets/images/Anthony.JPG
       github_user: 
 
   - - name: Michael Kirk
