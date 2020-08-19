@@ -2,7 +2,9 @@
 layout: page
 title: Hackweek Schedule 
 permalink: schedule.html
-description: <a href="https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0hDJNXX7p/view?usp=sharing">Schedule</a> (August 20-28, 2020)
+description: [[/images/Schedule.png|ALT=Schedule]]
+
+
 ---
 ## Pre-event preparation
 
