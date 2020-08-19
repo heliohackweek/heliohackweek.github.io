@@ -6,7 +6,7 @@ description: <a href="https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0h
 ---
 ## Pre-event preparation
 
-Click the Wiki button on the homepage to se pre-event material and training links. 
+Click the Wiki button on the homepage to see pre-event material and training links. 
 
 
 
