@@ -17,7 +17,7 @@ team:
       github_user: 
 
     - name: Anthony Arendt
-      title: HW Mentor
+      title: Principal Research Scientist
       affiliate: University of Washington
       image_url: /assets/images/Anthony.JPG
       github_user: 
