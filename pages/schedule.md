@@ -2,7 +2,7 @@
 layout: page
 title: Hackweek Schedule 
 permalink: schedule.html
-description: [[/images/Schedule.png|ALT=Schedule]]
+description: <a href=[[/images/Schedule.png]</a>Schedule
 
 
 ---
