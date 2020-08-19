@@ -5,7 +5,6 @@ permalink: schedule.html
 description: 
 ---
 
-image_url: /assets/images/Schedule.JPG
 ## Pre-event preparation
 
 Please work through the Wiki materials and pre-event training in advance of the hackweek!
