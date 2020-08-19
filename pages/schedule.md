@@ -4,7 +4,6 @@ title: <a href="https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0hDJNXX7
 permalink: schedule.html
 description:
 ---
-
 ## Pre-event preparation
 
 Please work through the Wiki materials and pre-event training in advance of the hackweek!
