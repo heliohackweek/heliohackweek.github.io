@@ -4,7 +4,7 @@ title: <a href="https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0hDJNXX7
 permalink: schedule.html
 description:
 
-image_url: /assets/images/Schedule.JPG
+image_url: /assets/images/Schedule.png
 ---
 
 ## Pre-event preparation
