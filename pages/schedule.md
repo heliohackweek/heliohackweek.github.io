@@ -2,7 +2,9 @@
 layout: page
 title: <a href="https://drive.google.com/file/d/1cpIljnvDdZhBQ6tWTHWB2vh0hDJNXX7p/view?usp=sharing">Schedule</a>
 permalink: schedule.html
-description: 
+description:
+
+image_url: /assets/images/Schedule.JPG
 ---
 
 ## Pre-event preparation
