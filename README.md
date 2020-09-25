@@ -1,4 +1,4 @@
 ## Overview
 
-This is the website for the ICESat-2 hackweek. 
+This is the website for the Helio Hackweek 2020 (HW20). 
 
